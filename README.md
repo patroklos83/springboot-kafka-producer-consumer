@@ -6,8 +6,11 @@ Apache Kafka is a distributed streaming platform that utilizes the publish/subsc
 Step 1
 ------------
 Install and run kafka server... https://kafka.apache.org/quickstart
+
 1.Start Zookeeper -> ./zookeeper-server-start.sh ../config/zookeeper.properties
+
 2.Run a Kafka broker -> ./kafka-server-start.sh ../config/server.properties
+
 3.Create a Kafka topic -> ./kafka-topics.sh --create --bootstrap-server localhost:9092 --replication-factor 1 --partitions 1 --topic myTopic
  
 Step 2 
