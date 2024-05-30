@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Spring Boot Kafka Meaasing Admin</title>
+	<title>Spring Boot Kafka Messaging Admin</title>
 
 <link href="/bootstrap/4.0.0-beta/css/bootstrap.min.css"
 	rel="stylesheet">
